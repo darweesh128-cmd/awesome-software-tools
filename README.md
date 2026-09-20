@@ -41,3 +41,5 @@ Software tools that I use regularly for work and personal projects
 # Video
 
 - [PotPlayer](https://potplayer.daum.net/) - Powerful multimedia player that supports a variety of different video codecs and formats.
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only invoice, quote, and purchase order tools for freelancers; MIT licensed, no signup.
